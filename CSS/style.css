@@ -1,0 +1,54 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*MAIN CONTENT*/
+
+/*PROPRIETA' BODY E LOGO*/
+body{
+    background-color: #F6F8F9;
+}
+
+.logo-container{
+    background-color: white;
+    width: 100%;
+    padding: 7px 0px 2px 20px;
+}
+
+/*PROPRIETA' MAIN*/
+
+main{
+    background-color: white;
+    width: 900px;
+    margin: 50px auto 0 auto;
+    height: 500px;
+    border-radius: 12px;
+}
+/*SEZIONE DIV 1*/
+.section-div-color{
+    display: inline-block;
+    background-color: #1598DA;
+    width: 95px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 8px 0 10px 35px;
+    padding: 7px;
+    text-align: center;
+    font-size: 15px;
+}
+/*SEZIONE DIV 2*/
+.second-div-section-color{
+    display: inline-block;
+    background-color: white;
+    border: 1px solid;
+    width: 95px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 8px 0px 0px 1px;
+    padding: 6px;
+    text-align: center;
+    font-size: 15px;
+}
