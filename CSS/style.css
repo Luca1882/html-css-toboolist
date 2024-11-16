@@ -38,6 +38,7 @@ main{
     padding: 7px;
     text-align: center;
     font-size: 15px;
+    font-family: sans-serif;
 }
 /*SEZIONE DIV 2*/
 .second-div-section-color{
@@ -51,6 +52,7 @@ main{
     padding: 6px;
     text-align: center;
     font-size: 15px;
+    font-family: sans-serif;
 }
 
 /*SEZIONE NEW TASK*/
