@@ -22,10 +22,10 @@ body{
 
 main{
     background-color: white;
-    width: 900px;
+    width: 1000px;
     margin: 50px auto 0 auto;
-    height: 500px;
     border-radius: 12px;
+    padding-bottom: 2px;
 }
 /*SEZIONE DIV 1*/
 .section-div-color{
@@ -130,6 +130,22 @@ hr{
 
 .item-box-fourth-color{
     background-color:#FF9B00;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    font-size: 10px;
+}
+
+.item-box-fifth-color{
+    background-color:#EC4A9D;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    font-size: 10px;
+}
+
+.item-box-sixth-color{
+    background-color:#A3D116;
     color: white;
     padding: 5px 10px;
     border-radius: 30px;
