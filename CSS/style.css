@@ -100,12 +100,8 @@ hr{
     font-size: 10px;
 }
 
-.item-box-second-color{
+.second-color{
     background-color:#AB5DE6;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 30px;
-    font-size: 10px;
 }
 /*CROSS SECTION*/
 
@@ -122,34 +118,18 @@ hr{
     line-height: 24px;
 }
 
-.item-box-third-color{
+.third-color{
     background-color:#2CC6AB;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 30px;
-    font-size: 10px;
 }
 
-.item-box-fourth-color{
+.fourth-color{
     background-color:#FF9B00;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 30px;
-    font-size: 10px;
 }
 
-.item-box-fifth-color{
+.fifth-color{
     background-color:#EC4A9D;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 30px;
-    font-size: 10px;
 }
 
-.item-box-sixth-color{
+.sixth-color{
     background-color:#A3D116;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 30px;
-    font-size: 10px;
 }
