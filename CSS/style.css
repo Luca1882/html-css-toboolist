@@ -63,6 +63,12 @@ main{
     margin-left: 9px;
     font-family: sans-serif;
     font-weight: bolder;
+    
+}
+
+hr{
+    border-top: 3px solid lightgray;
+    opacity: 0.2;
 }
 
 /*SEZIONE ITEM BOX STYLE*/
@@ -89,5 +95,43 @@ main{
     color: white;
     padding: 5px 10px;
     border-radius: 30px;
-    font-size: 12px;
+    font-size: 10px;
+}
+
+.item-box-second-color{
+    background-color:#AB5DE6;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    font-size: 10px;
+}
+/*CROSS SECTION*/
+
+.item-cross{
+    display: inline-block;
+    border: 1px solid red;
+    color: red;
+    border-radius: 100%;
+    height: 24px;
+    width: 24px;
+    text-align: center;
+    margin: 12px 0px 0px -5px;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.item-box-third-color{
+    background-color:#2CC6AB;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    font-size: 10px;
+}
+
+.item-box-fourth-color{
+    background-color:#FF9B00;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 30px;
+    font-size: 10px;
 }
